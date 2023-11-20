@@ -1,0 +1,31 @@
+protocol Calculation{
+    var num1 : Int {get}
+    var num2 : Int {get}
+
+}
+
+protocol CalculateFunctions : Calculation{
+    func calculateSum()
+}
+
+class PerformCalculator: CalculateFunctions{
+   
+    
+    var num1: Int = 0
+    var num2: Int = 0
+    
+    func calculateSum() {
+        print("addition of two numbers is", num1 + num2)
+    }
+    
+    func calculateSubtract(){
+        print("subtraction of two numbers is", num1 - num2)
+    }
+    
+    
+}
+let res = PerformCalculator()
+res.num1 = 20
+res.num2 = 5
+res.calculateSum()
+res.calculateSubtract()

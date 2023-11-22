@@ -16,6 +16,7 @@
 		A69D39492B0E8E1E0040ECFC /* ProtocolsSampleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39482B0E8E1E0040ECFC /* ProtocolsSampleAppTests.swift */; };
 		A69D39532B0E8E1E0040ECFC /* ProtocolsSampleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39522B0E8E1E0040ECFC /* ProtocolsSampleAppUITests.swift */; };
 		A69D39552B0E8E1E0040ECFC /* ProtocolsSampleAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39542B0E8E1E0040ECFC /* ProtocolsSampleAppUITestsLaunchTests.swift */; };
+		A69D39622B0E8E7D0040ECFC /* TimerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39612B0E8E7D0040ECFC /* TimerModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A69D394E2B0E8E1E0040ECFC /* ProtocolsSampleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProtocolsSampleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A69D39522B0E8E1E0040ECFC /* ProtocolsSampleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolsSampleAppUITests.swift; sourceTree = "<group>"; };
 		A69D39542B0E8E1E0040ECFC /* ProtocolsSampleAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolsSampleAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A69D39612B0E8E7D0040ECFC /* TimerModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A69D39312B0E8E1C0040ECFC /* AppDelegate.swift */,
 				A69D39332B0E8E1C0040ECFC /* SceneDelegate.swift */,
 				A69D39352B0E8E1C0040ECFC /* ViewController.swift */,
+				A69D39612B0E8E7D0040ECFC /* TimerModel.swift */,
 				A69D39372B0E8E1C0040ECFC /* Main.storyboard */,
 				A69D393A2B0E8E1E0040ECFC /* Assets.xcassets */,
 				A69D393C2B0E8E1E0040ECFC /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A69D39362B0E8E1C0040ECFC /* ViewController.swift in Sources */,
+				A69D39622B0E8E7D0040ECFC /* TimerModel.swift in Sources */,
 				A69D39322B0E8E1C0040ECFC /* AppDelegate.swift in Sources */,
 				A69D39342B0E8E1C0040ECFC /* SceneDelegate.swift in Sources */,
 			);

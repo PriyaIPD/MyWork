@@ -18,6 +18,9 @@
 		A69D39932B0EA3550040ECFC /* APIImplementationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39922B0EA3550040ECFC /* APIImplementationUITestsLaunchTests.swift */; };
 		A69D39A02B0EA3670040ECFC /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D399F2B0EA3670040ECFC /* Constants.swift */; };
 		A69D39A22B0EA3940040ECFC /* APIHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39A12B0EA3940040ECFC /* APIHandler.swift */; };
+		A69D39A72B0EB44D0040ECFC /* PetitionTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39A52B0EB44D0040ECFC /* PetitionTVC.swift */; };
+		A69D39A82B0EB44D0040ECFC /* PetitionTVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = A69D39A62B0EB44D0040ECFC /* PetitionTVC.xib */; };
+		A69D39AB2B0EB4DA0040ECFC /* PetitionVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D39AA2B0EB4DA0040ECFC /* PetitionVM.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		A69D39922B0EA3550040ECFC /* APIImplementationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIImplementationUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		A69D399F2B0EA3670040ECFC /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A69D39A12B0EA3940040ECFC /* APIHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIHandler.swift; sourceTree = "<group>"; };
+		A69D39A52B0EB44D0040ECFC /* PetitionTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetitionTVC.swift; sourceTree = "<group>"; };
+		A69D39A62B0EB44D0040ECFC /* PetitionTVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PetitionTVC.xib; sourceTree = "<group>"; };
+		A69D39AA2B0EB4DA0040ECFC /* PetitionVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetitionVM.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +109,11 @@
 		A69D396E2B0EA3530040ECFC /* APIImplementation */ = {
 			isa = PBXGroup;
 			children = (
+				A69D39A32B0EB4310040ECFC /* View */,
 				A69D396F2B0EA3530040ECFC /* AppDelegate.swift */,
 				A69D399F2B0EA3670040ECFC /* Constants.swift */,
 				A69D39A12B0EA3940040ECFC /* APIHandler.swift */,
+				A69D39A92B0EB4C60040ECFC /* Model */,
 				A69D39712B0EA3530040ECFC /* SceneDelegate.swift */,
 				A69D39732B0EA3530040ECFC /* ViewController.swift */,
 				A69D39752B0EA3530040ECFC /* Main.storyboard */,
@@ -131,6 +139,31 @@
 				A69D39922B0EA3550040ECFC /* APIImplementationUITestsLaunchTests.swift */,
 			);
 			path = APIImplementationUITests;
+			sourceTree = "<group>";
+		};
+		A69D39A32B0EB4310040ECFC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A69D39A42B0EB4370040ECFC /* Table View cells */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A69D39A42B0EB4370040ECFC /* Table View cells */ = {
+			isa = PBXGroup;
+			children = (
+				A69D39A52B0EB44D0040ECFC /* PetitionTVC.swift */,
+				A69D39A62B0EB44D0040ECFC /* PetitionTVC.xib */,
+			);
+			path = "Table View cells";
+			sourceTree = "<group>";
+		};
+		A69D39A92B0EB4C60040ECFC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A69D39AA2B0EB4DA0040ECFC /* PetitionVM.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A69D397C2B0EA3550040ECFC /* LaunchScreen.storyboard in Resources */,
+				A69D39A82B0EB44D0040ECFC /* PetitionTVC.xib in Resources */,
 				A69D39792B0EA3550040ECFC /* Assets.xcassets in Resources */,
 				A69D39772B0EA3530040ECFC /* Main.storyboard in Resources */,
 			);
@@ -269,6 +303,8 @@
 				A69D39A22B0EA3940040ECFC /* APIHandler.swift in Sources */,
 				A69D39722B0EA3530040ECFC /* SceneDelegate.swift in Sources */,
 				A69D39A02B0EA3670040ECFC /* Constants.swift in Sources */,
+				A69D39AB2B0EB4DA0040ECFC /* PetitionVM.swift in Sources */,
+				A69D39A72B0EB44D0040ECFC /* PetitionTVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

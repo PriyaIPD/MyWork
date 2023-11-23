@@ -3,4 +3,54 @@
    uuid = "E58AACBB-C5CF-44C3-9AE2-91F4726325F7"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF64CBFA-B603-4546-A0D9-DBDDAE7DDA73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIImplementation/Model/PetitionVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getPetitions(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF64CBFA-B603-4546-A0D9-DBDDAE7DDA73 - bca9be8fb0237277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIImplementation.PetitionVM.getPetitions(completion: (Swift.Optional&lt;APIImplementation.Petitions&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "APIImplementation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/APIImplementation/APIImplementation/Model/PetitionVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "DF64CBFA-B603-4546-A0D9-DBDDAE7DDA73 - bca9be8fb0237277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIImplementation.PetitionVM.getPetitions(completion: (Swift.Optional&lt;APIImplementation.Petitions&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "APIImplementation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/APIImplementation/APIImplementation/Model/PetitionVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

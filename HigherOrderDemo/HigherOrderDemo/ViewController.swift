@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         performHigherOrderOperations(arr: [3,7,1,0,5,-1,2])
+        performArrayOperations()
         // Do any additional setup after loading the view.
     }
     
@@ -45,7 +46,31 @@ class ViewController: UIViewController {
         print(arrFlaten)
     }
     
-    
+    func performArrayOperations(){
+        var arrFruits : [String] = []
+        arrFruits = ["Apple", "Orange", "Mango"]
+        //1, Access array elements
+        for fruit in arrFruits{
+            print("Name of fruits", fruit)
+        }
+        
+        //2, Insert array elements
+        arrFruits.append("Kiwi")
+        arrFruits.insert("Strawberry", at: 3)
+        print("Name of fruits after insertion", arrFruits)
+        
+        //3, Remove array elements
+        arrFruits.removeAll(where: {$0.hasPrefix("O")})
+        print("Name of fruits after remove", arrFruits)
+
+        //3, count
+        print("Fruits count", arrFruits.count)
+        
+        let filteredArr = arrFruits.filter({$0.contains("a")})
+        print("Fruits ", filteredArr)
+
+
+    }
 
 
 }

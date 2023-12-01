@@ -1,0 +1,663 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A69D3AAE2B169E7A0040ECFC /* ManulifeAssignmentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3AAD2B169E7A0040ECFC /* ManulifeAssignmentApp.swift */; };
+		A69D3AB02B169E7A0040ECFC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3AAF2B169E7A0040ECFC /* ContentView.swift */; };
+		A69D3AB22B169E7C0040ECFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AB12B169E7C0040ECFC /* Assets.xcassets */; };
+		A69D3AB52B169E7C0040ECFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AB42B169E7C0040ECFC /* Preview Assets.xcassets */; };
+		A69D3ABF2B169E7D0040ECFC /* ManulifeAssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3ABE2B169E7D0040ECFC /* ManulifeAssignmentTests.swift */; };
+		A69D3AC92B169E7D0040ECFC /* ManulifeAssignmentUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3AC82B169E7D0040ECFC /* ManulifeAssignmentUITests.swift */; };
+		A69D3ACB2B169E7D0040ECFC /* ManulifeAssignmentUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3ACA2B169E7D0040ECFC /* ManulifeAssignmentUITestsLaunchTests.swift */; };
+		A69D3AD82B16A3110040ECFC /* listOfAccounts.json in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AD72B16A3110040ECFC /* listOfAccounts.json */; };
+		A69D3ADA2B16A3540040ECFC /* AccountModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3AD92B16A3540040ECFC /* AccountModel.swift */; };
+		A69D3ADC2B16A40B0040ECFC /* AccountsVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3ADB2B16A40B0040ECFC /* AccountsVM.swift */; };
+		A69D3AE02B16FB190040ECFC /* PreferenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3ADF2B16FB190040ECFC /* PreferenceManager.swift */; };
+		A69D3AE52B17B0310040ECFC /* chequingAccount.json in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AE42B17B0310040ECFC /* chequingAccount.json */; };
+		A69D3AE82B17C5EA0040ECFC /* savingsAccount.json in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AE62B17C5EA0040ECFC /* savingsAccount.json */; };
+		A69D3AE92B17C5EA0040ECFC /* TfsaAccount.json in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AE72B17C5EA0040ECFC /* TfsaAccount.json */; };
+		A69D3AF02B17DD450040ECFC /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3AEF2B17DD450040ECFC /* AccountView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A69D3ABB2B169E7D0040ECFC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A69D3AA22B169E7A0040ECFC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A69D3AA92B169E7A0040ECFC;
+			remoteInfo = ManulifeAssignment;
+		};
+		A69D3AC52B169E7D0040ECFC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A69D3AA22B169E7A0040ECFC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A69D3AA92B169E7A0040ECFC;
+			remoteInfo = ManulifeAssignment;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A69D3AAA2B169E7A0040ECFC /* ManulifeAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ManulifeAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A69D3AAD2B169E7A0040ECFC /* ManulifeAssignmentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManulifeAssignmentApp.swift; sourceTree = "<group>"; };
+		A69D3AAF2B169E7A0040ECFC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A69D3AB12B169E7C0040ECFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A69D3AB42B169E7C0040ECFC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A69D3ABA2B169E7D0040ECFC /* ManulifeAssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ManulifeAssignmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A69D3ABE2B169E7D0040ECFC /* ManulifeAssignmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManulifeAssignmentTests.swift; sourceTree = "<group>"; };
+		A69D3AC42B169E7D0040ECFC /* ManulifeAssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ManulifeAssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A69D3AC82B169E7D0040ECFC /* ManulifeAssignmentUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManulifeAssignmentUITests.swift; sourceTree = "<group>"; };
+		A69D3ACA2B169E7D0040ECFC /* ManulifeAssignmentUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManulifeAssignmentUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A69D3AD72B16A3110040ECFC /* listOfAccounts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = listOfAccounts.json; sourceTree = "<group>"; };
+		A69D3AD92B16A3540040ECFC /* AccountModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountModel.swift; sourceTree = "<group>"; };
+		A69D3ADB2B16A40B0040ECFC /* AccountsVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountsVM.swift; sourceTree = "<group>"; };
+		A69D3ADF2B16FB190040ECFC /* PreferenceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceManager.swift; sourceTree = "<group>"; };
+		A69D3AE42B17B0310040ECFC /* chequingAccount.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chequingAccount.json; sourceTree = "<group>"; };
+		A69D3AE62B17C5EA0040ECFC /* savingsAccount.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = savingsAccount.json; sourceTree = "<group>"; };
+		A69D3AE72B17C5EA0040ECFC /* TfsaAccount.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TfsaAccount.json; sourceTree = "<group>"; };
+		A69D3AEF2B17DD450040ECFC /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		A69D3AF12B17DF2F0040ECFC /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A69D3AA72B169E7A0040ECFC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A69D3AB72B169E7D0040ECFC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A69D3AC12B169E7D0040ECFC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A69D3AA12B169E790040ECFC = {
+			isa = PBXGroup;
+			children = (
+				A69D3AF12B17DF2F0040ECFC /* Readme.md */,
+				A69D3AAC2B169E7A0040ECFC /* ManulifeAssignment */,
+				A69D3ABD2B169E7D0040ECFC /* ManulifeAssignmentTests */,
+				A69D3AC72B169E7D0040ECFC /* ManulifeAssignmentUITests */,
+				A69D3AAB2B169E7A0040ECFC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A69D3AAB2B169E7A0040ECFC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AAA2B169E7A0040ECFC /* ManulifeAssignment.app */,
+				A69D3ABA2B169E7D0040ECFC /* ManulifeAssignmentTests.xctest */,
+				A69D3AC42B169E7D0040ECFC /* ManulifeAssignmentUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A69D3AAC2B169E7A0040ECFC /* ManulifeAssignment */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AEE2B17D59B0040ECFC /* Data */,
+				A69D3AED2B17D57E0040ECFC /* Helper */,
+				A69D3AEA2B17D54E0040ECFC /* Model */,
+				A69D3AEB2B17D55E0040ECFC /* ViewModel */,
+				A69D3AEC2B17D5700040ECFC /* View */,
+				A69D3AB12B169E7C0040ECFC /* Assets.xcassets */,
+				A69D3AB32B169E7C0040ECFC /* Preview Content */,
+			);
+			path = ManulifeAssignment;
+			sourceTree = "<group>";
+		};
+		A69D3AB32B169E7C0040ECFC /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AB42B169E7C0040ECFC /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A69D3ABD2B169E7D0040ECFC /* ManulifeAssignmentTests */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3ABE2B169E7D0040ECFC /* ManulifeAssignmentTests.swift */,
+			);
+			path = ManulifeAssignmentTests;
+			sourceTree = "<group>";
+		};
+		A69D3AC72B169E7D0040ECFC /* ManulifeAssignmentUITests */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AC82B169E7D0040ECFC /* ManulifeAssignmentUITests.swift */,
+				A69D3ACA2B169E7D0040ECFC /* ManulifeAssignmentUITestsLaunchTests.swift */,
+			);
+			path = ManulifeAssignmentUITests;
+			sourceTree = "<group>";
+		};
+		A69D3AEA2B17D54E0040ECFC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AD92B16A3540040ECFC /* AccountModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A69D3AEB2B17D55E0040ECFC /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3ADB2B16A40B0040ECFC /* AccountsVM.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		A69D3AEC2B17D5700040ECFC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AAD2B169E7A0040ECFC /* ManulifeAssignmentApp.swift */,
+				A69D3AAF2B169E7A0040ECFC /* ContentView.swift */,
+				A69D3AEF2B17DD450040ECFC /* AccountView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A69D3AED2B17D57E0040ECFC /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3ADF2B16FB190040ECFC /* PreferenceManager.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		A69D3AEE2B17D59B0040ECFC /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				A69D3AE42B17B0310040ECFC /* chequingAccount.json */,
+				A69D3AE62B17C5EA0040ECFC /* savingsAccount.json */,
+				A69D3AE72B17C5EA0040ECFC /* TfsaAccount.json */,
+				A69D3AD72B16A3110040ECFC /* listOfAccounts.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A69D3AA92B169E7A0040ECFC /* ManulifeAssignment */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A69D3ACE2B169E7D0040ECFC /* Build configuration list for PBXNativeTarget "ManulifeAssignment" */;
+			buildPhases = (
+				A69D3AA62B169E7A0040ECFC /* Sources */,
+				A69D3AA72B169E7A0040ECFC /* Frameworks */,
+				A69D3AA82B169E7A0040ECFC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ManulifeAssignment;
+			productName = ManulifeAssignment;
+			productReference = A69D3AAA2B169E7A0040ECFC /* ManulifeAssignment.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A69D3AB92B169E7D0040ECFC /* ManulifeAssignmentTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A69D3AD12B169E7D0040ECFC /* Build configuration list for PBXNativeTarget "ManulifeAssignmentTests" */;
+			buildPhases = (
+				A69D3AB62B169E7D0040ECFC /* Sources */,
+				A69D3AB72B169E7D0040ECFC /* Frameworks */,
+				A69D3AB82B169E7D0040ECFC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A69D3ABC2B169E7D0040ECFC /* PBXTargetDependency */,
+			);
+			name = ManulifeAssignmentTests;
+			productName = ManulifeAssignmentTests;
+			productReference = A69D3ABA2B169E7D0040ECFC /* ManulifeAssignmentTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A69D3AC32B169E7D0040ECFC /* ManulifeAssignmentUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A69D3AD42B169E7D0040ECFC /* Build configuration list for PBXNativeTarget "ManulifeAssignmentUITests" */;
+			buildPhases = (
+				A69D3AC02B169E7D0040ECFC /* Sources */,
+				A69D3AC12B169E7D0040ECFC /* Frameworks */,
+				A69D3AC22B169E7D0040ECFC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A69D3AC62B169E7D0040ECFC /* PBXTargetDependency */,
+			);
+			name = ManulifeAssignmentUITests;
+			productName = ManulifeAssignmentUITests;
+			productReference = A69D3AC42B169E7D0040ECFC /* ManulifeAssignmentUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A69D3AA22B169E7A0040ECFC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					A69D3AA92B169E7A0040ECFC = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+					A69D3AB92B169E7D0040ECFC = {
+						CreatedOnToolsVersion = 15.0.1;
+						TestTargetID = A69D3AA92B169E7A0040ECFC;
+					};
+					A69D3AC32B169E7D0040ECFC = {
+						CreatedOnToolsVersion = 15.0.1;
+						TestTargetID = A69D3AA92B169E7A0040ECFC;
+					};
+				};
+			};
+			buildConfigurationList = A69D3AA52B169E7A0040ECFC /* Build configuration list for PBXProject "ManulifeAssignment" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A69D3AA12B169E790040ECFC;
+			packageReferences = (
+			);
+			productRefGroup = A69D3AAB2B169E7A0040ECFC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A69D3AA92B169E7A0040ECFC /* ManulifeAssignment */,
+				A69D3AB92B169E7D0040ECFC /* ManulifeAssignmentTests */,
+				A69D3AC32B169E7D0040ECFC /* ManulifeAssignmentUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A69D3AA82B169E7A0040ECFC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A69D3AB52B169E7C0040ECFC /* Preview Assets.xcassets in Resources */,
+				A69D3AD82B16A3110040ECFC /* listOfAccounts.json in Resources */,
+				A69D3AE52B17B0310040ECFC /* chequingAccount.json in Resources */,
+				A69D3AE82B17C5EA0040ECFC /* savingsAccount.json in Resources */,
+				A69D3AE92B17C5EA0040ECFC /* TfsaAccount.json in Resources */,
+				A69D3AB22B169E7C0040ECFC /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A69D3AB82B169E7D0040ECFC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A69D3AC22B169E7D0040ECFC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A69D3AA62B169E7A0040ECFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A69D3AF02B17DD450040ECFC /* AccountView.swift in Sources */,
+				A69D3AB02B169E7A0040ECFC /* ContentView.swift in Sources */,
+				A69D3ADA2B16A3540040ECFC /* AccountModel.swift in Sources */,
+				A69D3ADC2B16A40B0040ECFC /* AccountsVM.swift in Sources */,
+				A69D3AAE2B169E7A0040ECFC /* ManulifeAssignmentApp.swift in Sources */,
+				A69D3AE02B16FB190040ECFC /* PreferenceManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A69D3AB62B169E7D0040ECFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A69D3ABF2B169E7D0040ECFC /* ManulifeAssignmentTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A69D3AC02B169E7D0040ECFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A69D3ACB2B169E7D0040ECFC /* ManulifeAssignmentUITestsLaunchTests.swift in Sources */,
+				A69D3AC92B169E7D0040ECFC /* ManulifeAssignmentUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A69D3ABC2B169E7D0040ECFC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A69D3AA92B169E7A0040ECFC /* ManulifeAssignment */;
+			targetProxy = A69D3ABB2B169E7D0040ECFC /* PBXContainerItemProxy */;
+		};
+		A69D3AC62B169E7D0040ECFC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A69D3AA92B169E7A0040ECFC /* ManulifeAssignment */;
+			targetProxy = A69D3AC52B169E7D0040ECFC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A69D3ACC2B169E7D0040ECFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A69D3ACD2B169E7D0040ECFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A69D3ACF2B169E7D0040ECFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ManulifeAssignment/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.ManulifeAssignment;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A69D3AD02B169E7D0040ECFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ManulifeAssignment/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.ManulifeAssignment;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A69D3AD22B169E7D0040ECFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.ManulifeAssignmentTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ManulifeAssignment.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ManulifeAssignment";
+			};
+			name = Debug;
+		};
+		A69D3AD32B169E7D0040ECFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.ManulifeAssignmentTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ManulifeAssignment.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ManulifeAssignment";
+			};
+			name = Release;
+		};
+		A69D3AD52B169E7D0040ECFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.ManulifeAssignmentUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ManulifeAssignment;
+			};
+			name = Debug;
+		};
+		A69D3AD62B169E7D0040ECFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.ManulifeAssignmentUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ManulifeAssignment;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A69D3AA52B169E7A0040ECFC /* Build configuration list for PBXProject "ManulifeAssignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A69D3ACC2B169E7D0040ECFC /* Debug */,
+				A69D3ACD2B169E7D0040ECFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A69D3ACE2B169E7D0040ECFC /* Build configuration list for PBXNativeTarget "ManulifeAssignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A69D3ACF2B169E7D0040ECFC /* Debug */,
+				A69D3AD02B169E7D0040ECFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A69D3AD12B169E7D0040ECFC /* Build configuration list for PBXNativeTarget "ManulifeAssignmentTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A69D3AD22B169E7D0040ECFC /* Debug */,
+				A69D3AD32B169E7D0040ECFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A69D3AD42B169E7D0040ECFC /* Build configuration list for PBXNativeTarget "ManulifeAssignmentUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A69D3AD52B169E7D0040ECFC /* Debug */,
+				A69D3AD62B169E7D0040ECFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A69D3AA22B169E7A0040ECFC /* Project object */;
+}

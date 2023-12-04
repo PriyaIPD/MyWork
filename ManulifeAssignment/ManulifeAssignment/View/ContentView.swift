@@ -11,7 +11,9 @@ struct ContentView: View {
     var body: some View {
         let obj = PreferenceManager.shared.get(forKey: .Account)
         if obj.isEmpty == false{
-            AccountView()
+            //AccountView()
+            MainContentView()
+
         }else{
             MainContentView()
 
@@ -21,7 +23,8 @@ struct ContentView: View {
 
 struct MainContentView: View {
         @State private var readyToNavigate : Bool = false
-    
+    @ObservedObject private var viewModel = AccountsVM()
+
     var body: some View{
         NavigationStack {
             ZStack {
@@ -32,6 +35,7 @@ struct MainContentView: View {
                     Spacer()
                     Button {
                         readyToNavigate = true
+                        viewModel.getTransactionHistory1()
                     } label: {
                         Text("Open")
                             .frame(width: 200 , height: 40, alignment: .center)

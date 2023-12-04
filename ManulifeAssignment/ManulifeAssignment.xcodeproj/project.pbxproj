@@ -22,6 +22,8 @@
 		A69D3AE82B17C5EA0040ECFC /* savingsAccount.json in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AE62B17C5EA0040ECFC /* savingsAccount.json */; };
 		A69D3AE92B17C5EA0040ECFC /* TfsaAccount.json in Resources */ = {isa = PBXBuildFile; fileRef = A69D3AE72B17C5EA0040ECFC /* TfsaAccount.json */; };
 		A69D3AF02B17DD450040ECFC /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69D3AEF2B17DD450040ECFC /* AccountView.swift */; };
+		A6C953AA2B1A825900B70D7E /* accountTransactions.json in Resources */ = {isa = PBXBuildFile; fileRef = A6C953A92B1A825900B70D7E /* accountTransactions.json */; };
+		A6C953AC2B1A831400B70D7E /* TransactionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953AB2B1A831400B70D7E /* TransactionModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +63,8 @@
 		A69D3AE72B17C5EA0040ECFC /* TfsaAccount.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TfsaAccount.json; sourceTree = "<group>"; };
 		A69D3AEF2B17DD450040ECFC /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		A69D3AF12B17DF2F0040ECFC /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		A6C953A92B1A825900B70D7E /* accountTransactions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = accountTransactions.json; sourceTree = "<group>"; };
+		A6C953AB2B1A831400B70D7E /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				A69D3AD92B16A3540040ECFC /* AccountModel.swift */,
+				A6C953AB2B1A831400B70D7E /* TransactionModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -188,6 +193,7 @@
 				A69D3AE42B17B0310040ECFC /* chequingAccount.json */,
 				A69D3AE62B17C5EA0040ECFC /* savingsAccount.json */,
 				A69D3AE72B17C5EA0040ECFC /* TfsaAccount.json */,
+				A6C953A92B1A825900B70D7E /* accountTransactions.json */,
 				A69D3AD72B16A3110040ECFC /* listOfAccounts.json */,
 			);
 			path = Data;
@@ -304,6 +310,7 @@
 				A69D3AE52B17B0310040ECFC /* chequingAccount.json in Resources */,
 				A69D3AE82B17C5EA0040ECFC /* savingsAccount.json in Resources */,
 				A69D3AE92B17C5EA0040ECFC /* TfsaAccount.json in Resources */,
+				A6C953AA2B1A825900B70D7E /* accountTransactions.json in Resources */,
 				A69D3AB22B169E7C0040ECFC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -333,6 +340,7 @@
 				A69D3AB02B169E7A0040ECFC /* ContentView.swift in Sources */,
 				A69D3ADA2B16A3540040ECFC /* AccountModel.swift in Sources */,
 				A69D3ADC2B16A40B0040ECFC /* AccountsVM.swift in Sources */,
+				A6C953AC2B1A831400B70D7E /* TransactionModel.swift in Sources */,
 				A69D3AAE2B169E7A0040ECFC /* ManulifeAssignmentApp.swift in Sources */,
 				A69D3AE02B16FB190040ECFC /* PreferenceManager.swift in Sources */,
 			);

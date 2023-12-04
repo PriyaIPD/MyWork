@@ -3,4 +3,133 @@
    uuid = "2F4B0A32-172B-4046-B83E-AD05F526CD60"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52613EBA-2B19-47CC-A6DB-E20E7024B009"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ManulifeAssignment/ViewModel/AccountsVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getTransactionHistory1()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52613EBA-2B19-47CC-A6DB-E20E7024B009 - c3ce447c90a9d6b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ManulifeAssignment.AccountsVM.getTransactionHistory1() -&gt; ()"
+                  moduleName = "ManulifeAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ManulifeAssignment/ManulifeAssignment/ViewModel/AccountsVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "52613EBA-2B19-47CC-A6DB-E20E7024B009 - c3ce447c90a9d6b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ManulifeAssignment.AccountsVM.getTransactionHistory1() -&gt; ()"
+                  moduleName = "ManulifeAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ManulifeAssignment/ManulifeAssignment/ViewModel/AccountsVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C597932C-E27C-47BE-B8FE-F277D4680398"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ManulifeAssignment/ViewModel/AccountsVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "getTransactionHistory1()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C597932C-E27C-47BE-B8FE-F277D4680398 - c3ce447c90a9d8ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ManulifeAssignment.AccountsVM.getTransactionHistory1() -&gt; ()"
+                  moduleName = "ManulifeAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ManulifeAssignment/ManulifeAssignment/ViewModel/AccountsVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1964">
+               </Location>
+               <Location
+                  uuid = "C597932C-E27C-47BE-B8FE-F277D4680398 - c3ce447c90a9d8ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ManulifeAssignment.AccountsVM.getTransactionHistory1() -&gt; ()"
+                  moduleName = "ManulifeAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ManulifeAssignment/ManulifeAssignment/ViewModel/AccountsVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1956">
+               </Location>
+               <Location
+                  uuid = "C597932C-E27C-47BE-B8FE-F277D4680398 - c3ce447c90a9d8ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ManulifeAssignment.AccountsVM.getTransactionHistory1() -&gt; ()"
+                  moduleName = "ManulifeAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ManulifeAssignment/ManulifeAssignment/ViewModel/AccountsVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "153B2705-1920-43C2-A1C6-A005ECBB96A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ManulifeAssignment/ViewModel/AccountsVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getTransactionHistory1()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

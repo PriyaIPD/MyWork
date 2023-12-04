@@ -10,6 +10,8 @@ import SwiftUI
 
 class AccountsVM: ObservableObject  {
     @Published var transactions : [Transactions] = []
+    @Published var transactions1 : [ManulifeTransactions] = []
+
     @Published var selectedAccName: String?
     @Published var selectedItem: Account?
     @Published var result : [Account] = []
@@ -49,6 +51,35 @@ class AccountsVM: ObservableObject  {
         
     }
     
+    func getTransactionHistory1() {
+        var url : String = ""
+        let type : AccountType = AccountType(rawValue: self.selectedItem?.display_name ?? "" ) ?? .chequing
+
+        switch type{
+        case .saving:
+            url = "savingsAccount.json"
+        case .chequing:
+            url = "chequingAccount.json"
+        case .tfsa:
+            url = "TfsaAccount.json"
+        }
+           url = "accountTransactions.json"
+            if let url = Bundle.main.url(forResource: url, withExtension: nil){
+                if let data = try? Data(contentsOf: url){
+                    
+                    let jsondecoder = JSONDecoder()
+                    do{
+                        let result = try jsondecoder.decode([ManulifeTransactions].self, from: data)
+                        self.transactions1 = result
+                    }
+                    catch {
+                        print("Error decoding JSON: \(error)")
+                    }
+                }
+            }
+       
+    }
+    
     func getTransactionHistory(completionHandler: ([Transactions]) -> Void) {
         var url : String = ""
         let type : AccountType = AccountType(rawValue: self.selectedItem?.display_name ?? "" ) ?? .chequing
@@ -61,7 +92,7 @@ class AccountsVM: ObservableObject  {
         case .tfsa:
             url = "TfsaAccount.json"
         }
-            
+           url = "accountTransactions.json"
             if let url = Bundle.main.url(forResource: url, withExtension: nil){
                 if let data = try? Data(contentsOf: url){
                     

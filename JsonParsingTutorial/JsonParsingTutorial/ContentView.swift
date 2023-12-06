@@ -18,7 +18,7 @@ struct MasterView: View {
     var body: some View {
         VStack {
             if showLoginView {
-                UsersView()
+                CoinsView()
             } else {
                 Button("Users List") {
                     self.showLoginView = true
@@ -70,6 +70,8 @@ struct HomeView: View {
                             Text("Color: \(a.eyeColor.localizedCapitalized)")
                             Text("Gender: \(a.gender.localizedCapitalized)")
                             Text("Age: \(a.age)")
+                        }
+                        NavigationLink(destination: GlossaryView()) {
                         }
 
                     }

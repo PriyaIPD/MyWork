@@ -19,6 +19,18 @@
 		A6C953EB2B1A902400B70D7E /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953EA2B1A902400B70D7E /* UserViewModel.swift */; };
 		A6C953EE2B1E49B100B70D7E /* HomeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953ED2B1E49B100B70D7E /* HomeModel.swift */; };
 		A6C953EF2B1E543D00B70D7E /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = A6C953EC2B1E464300B70D7E /* test.json */; };
+		A6C953F12B1E60F500B70D7E /* gloassary.json in Resources */ = {isa = PBXBuildFile; fileRef = A6C953F02B1E60F100B70D7E /* gloassary.json */; };
+		A6C953F32B1E616300B70D7E /* Gloassary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953F22B1E616300B70D7E /* Gloassary.swift */; };
+		A6C953F52B1E62A900B70D7E /* GlossaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953F42B1E62A900B70D7E /* GlossaryView.swift */; };
+		A6C953F72B1E788600B70D7E /* Transactions.json in Resources */ = {isa = PBXBuildFile; fileRef = A6C953F62B1E787A00B70D7E /* Transactions.json */; };
+		A6C953F92B1E78AC00B70D7E /* TransactionsDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953F82B1E78AC00B70D7E /* TransactionsDTO.swift */; };
+		A6C953FE2B1F3E3700B70D7E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C953FD2B1F3E3700B70D7E /* Constants.swift */; };
+		A6C954012B1F403200B70D7E /* FactsDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C954002B1F403200B70D7E /* FactsDTO.swift */; };
+		A6C954032B1F404100B70D7E /* FactsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C954022B1F404100B70D7E /* FactsViewModel.swift */; };
+		A6C954052B1F405200B70D7E /* FactsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C954042B1F405200B70D7E /* FactsView.swift */; };
+		A6C954072B1F40C200B70D7E /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C954062B1F40C200B70D7E /* WebService.swift */; };
+		A6C954092B208C9100B70D7E /* CoinDTO.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C954082B208C9100B70D7E /* CoinDTO.swift */; };
+		A6C9540B2B208E6B00B70D7E /* CoinsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C9540A2B208E6B00B70D7E /* CoinsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +66,18 @@
 		A6C953EA2B1A902400B70D7E /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
 		A6C953EC2B1E464300B70D7E /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
 		A6C953ED2B1E49B100B70D7E /* HomeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModel.swift; sourceTree = "<group>"; };
+		A6C953F02B1E60F100B70D7E /* gloassary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gloassary.json; sourceTree = "<group>"; };
+		A6C953F22B1E616300B70D7E /* Gloassary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gloassary.swift; sourceTree = "<group>"; };
+		A6C953F42B1E62A900B70D7E /* GlossaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlossaryView.swift; sourceTree = "<group>"; };
+		A6C953F62B1E787A00B70D7E /* Transactions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Transactions.json; sourceTree = "<group>"; };
+		A6C953F82B1E78AC00B70D7E /* TransactionsDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionsDTO.swift; sourceTree = "<group>"; };
+		A6C953FD2B1F3E3700B70D7E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		A6C954002B1F403200B70D7E /* FactsDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactsDTO.swift; sourceTree = "<group>"; };
+		A6C954022B1F404100B70D7E /* FactsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactsViewModel.swift; sourceTree = "<group>"; };
+		A6C954042B1F405200B70D7E /* FactsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactsView.swift; sourceTree = "<group>"; };
+		A6C954062B1F40C200B70D7E /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
+		A6C954082B208C9100B70D7E /* CoinDTO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinDTO.swift; sourceTree = "<group>"; };
+		A6C9540A2B208E6B00B70D7E /* CoinsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,11 +128,15 @@
 		A6C953B82B1A8F1900B70D7E /* JsonParsingTutorial */ = {
 			isa = PBXGroup;
 			children = (
+				A6C953FA2B1F3E1F00B70D7E /* Helper */,
 				A6C953E72B1A900400B70D7E /* View Model */,
 				A6C953E62B1A8FFE00B70D7E /* Model */,
 				A6C953E32B1A8FCF00B70D7E /* Data */,
 				A6C953B92B1A8F1900B70D7E /* JsonParsingTutorialApp.swift */,
 				A6C953BB2B1A8F1900B70D7E /* ContentView.swift */,
+				A6C953F42B1E62A900B70D7E /* GlossaryView.swift */,
+				A6C954042B1F405200B70D7E /* FactsView.swift */,
+				A6C9540A2B208E6B00B70D7E /* CoinsView.swift */,
 				A6C953BD2B1A8F1B00B70D7E /* Assets.xcassets */,
 				A6C953BF2B1A8F1B00B70D7E /* Preview Content */,
 			);
@@ -144,7 +172,9 @@
 			isa = PBXGroup;
 			children = (
 				A6C953E42B1A8FEA00B70D7E /* SampleRecords.json */,
+				A6C953F62B1E787A00B70D7E /* Transactions.json */,
 				A6C953EC2B1E464300B70D7E /* test.json */,
+				A6C953F02B1E60F100B70D7E /* gloassary.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -153,7 +183,11 @@
 			isa = PBXGroup;
 			children = (
 				A6C953E82B1A901300B70D7E /* UserModel.swift */,
+				A6C954002B1F403200B70D7E /* FactsDTO.swift */,
 				A6C953ED2B1E49B100B70D7E /* HomeModel.swift */,
+				A6C953F22B1E616300B70D7E /* Gloassary.swift */,
+				A6C953F82B1E78AC00B70D7E /* TransactionsDTO.swift */,
+				A6C954082B208C9100B70D7E /* CoinDTO.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -162,8 +196,18 @@
 			isa = PBXGroup;
 			children = (
 				A6C953EA2B1A902400B70D7E /* UserViewModel.swift */,
+				A6C954022B1F404100B70D7E /* FactsViewModel.swift */,
 			);
 			path = "View Model";
+			sourceTree = "<group>";
+		};
+		A6C953FA2B1F3E1F00B70D7E /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				A6C953FD2B1F3E3700B70D7E /* Constants.swift */,
+				A6C954062B1F40C200B70D7E /* WebService.swift */,
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,7 +316,9 @@
 			files = (
 				A6C953C12B1A8F1B00B70D7E /* Preview Assets.xcassets in Resources */,
 				A6C953EF2B1E543D00B70D7E /* test.json in Resources */,
+				A6C953F72B1E788600B70D7E /* Transactions.json in Resources */,
 				A6C953E52B1A8FEA00B70D7E /* SampleRecords.json in Resources */,
+				A6C953F12B1E60F500B70D7E /* gloassary.json in Resources */,
 				A6C953BE2B1A8F1B00B70D7E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -298,11 +344,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6C954072B1F40C200B70D7E /* WebService.swift in Sources */,
+				A6C953F92B1E78AC00B70D7E /* TransactionsDTO.swift in Sources */,
+				A6C9540B2B208E6B00B70D7E /* CoinsView.swift in Sources */,
 				A6C953BC2B1A8F1900B70D7E /* ContentView.swift in Sources */,
 				A6C953EB2B1A902400B70D7E /* UserViewModel.swift in Sources */,
 				A6C953E92B1A901300B70D7E /* UserModel.swift in Sources */,
+				A6C953F32B1E616300B70D7E /* Gloassary.swift in Sources */,
+				A6C954092B208C9100B70D7E /* CoinDTO.swift in Sources */,
+				A6C954032B1F404100B70D7E /* FactsViewModel.swift in Sources */,
 				A6C953EE2B1E49B100B70D7E /* HomeModel.swift in Sources */,
+				A6C953F52B1E62A900B70D7E /* GlossaryView.swift in Sources */,
+				A6C954012B1F403200B70D7E /* FactsDTO.swift in Sources */,
 				A6C953BA2B1A8F1900B70D7E /* JsonParsingTutorialApp.swift in Sources */,
+				A6C954052B1F405200B70D7E /* FactsView.swift in Sources */,
+				A6C953FE2B1F3E3700B70D7E /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

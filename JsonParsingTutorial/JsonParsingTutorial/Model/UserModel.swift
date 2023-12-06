@@ -12,7 +12,6 @@ struct UserModel: Codable{
         var users : [Users]
     }
 struct Users: Codable{
-           // var userId : Int
         var firstName : String
         var lastName : String
         var phoneNumber : String

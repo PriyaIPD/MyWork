@@ -7,47 +7,62 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FE1EC779-31CE-41EE-9FD3-F6385D7EDE7C"
+            uuid = "0E82E9B9-EEBE-493A-B778-C8CC282535E5"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
+            filePath = "JsonParsingTutorial/GlossaryView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "getUserList(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "FE1EC779-31CE-41EE-9FD3-F6385D7EDE7C - f6955adbc90ede1f"
+                  uuid = "0E82E9B9-EEBE-493A-B778-C8CC282535E5 - 56df35612b8bc73"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getUserList(completion: (Swift.Array&lt;JsonParsingTutorial.Users&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt; in JsonParsingTutorial.GlossaryView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/GlossaryView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1540">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1068">
                </Location>
                <Location
-                  uuid = "FE1EC779-31CE-41EE-9FD3-F6385D7EDE7C - f6955adbc90ede1f"
+                  uuid = "0E82E9B9-EEBE-493A-B778-C8CC282535E5 - 512f5de68d2d8f8f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getUserList(completion: (Swift.Array&lt;JsonParsingTutorial.Users&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt; in JsonParsingTutorial.GlossaryView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/GlossaryView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1452">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "0E82E9B9-EEBE-493A-B778-C8CC282535E5 - 6aa24fb80a628fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Spacer, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt;&gt;)&gt; in JsonParsingTutorial.GlossaryView.body.getter : some"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/GlossaryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1356">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -55,47 +70,212 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "114A6C52-014C-4CC4-87A3-B87BCBEF6144"
+            uuid = "530EC7D9-B282-4E07-8596-48333CB669DD"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
+            filePath = "JsonParsingTutorial/Helper/WebService.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "getUserList(completion:)"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchFacts(completionHandler:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "114A6C52-014C-4CC4-87A3-B87BCBEF6144 - f6955adbc90edefe"
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 99dc10a9673a3643"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getUserList(completion: (Swift.Array&lt;JsonParsingTutorial.Users&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts() -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "1452">
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "156">
                </Location>
                <Location
-                  uuid = "114A6C52-014C-4CC4-87A3-B87BCBEF6144 - f6955adbc90edefe"
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 99dc10a9673a3643"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getUserList(completion: (Swift.Array&lt;JsonParsingTutorial.Users&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts() -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "1360">
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 99dc10a9673a3643"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts() -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 99dc10a9673a3643"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts() -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 15f08208478ecb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 15f08208478ecb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 15f08208478ecb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 15f08208478ecb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 15f08208478ecb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 473d4b7c19c31d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 473d4b7c19c31d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 473d4b7c19c31d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "530EC7D9-B282-4E07-8596-48333CB669DD - 473d4b7c19c31d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JsonParsingTutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "492">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -103,62 +283,62 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "88BEC091-6F4D-45FC-BEB5-D40507756AB4"
+            uuid = "D9CEB946-EF65-4362-998F-7E17B675CEC2"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
+            filePath = "JsonParsingTutorial/Helper/WebService.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "getList(completion:)"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchFacts(completionHandler:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "88BEC091-6F4D-45FC-BEB5-D40507756AB4 - bce3280eed5140a6"
+                  uuid = "D9CEB946-EF65-4362-998F-7E17B675CEC2 - 15f08208478eca50"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "372">
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1048">
                </Location>
                <Location
-                  uuid = "88BEC091-6F4D-45FC-BEB5-D40507756AB4 - bce3280eed5140a6"
+                  uuid = "D9CEB946-EF65-4362-998F-7E17B675CEC2 - 15f08208478eca50"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "340">
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "936">
                </Location>
                <Location
-                  uuid = "88BEC091-6F4D-45FC-BEB5-D40507756AB4 - bce3280eed5140a6"
+                  uuid = "D9CEB946-EF65-4362-998F-7E17B675CEC2 - 473d4b7c19c31c9f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "352">
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "536">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -166,62 +346,62 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "12E2EB68-78E4-4016-807B-AE18DC57796A"
+            uuid = "DD222B14-7632-42C2-93DA-4D47565777BB"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
+            filePath = "JsonParsingTutorial/Helper/WebService.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "getList(completion:)"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchFacts(completionHandler:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "12E2EB68-78E4-4016-807B-AE18DC57796A - bce3280eed51419e"
+                  uuid = "DD222B14-7632-42C2-93DA-4D47565777BB - 15f08208478eca73"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
-                  offsetFromSymbolStart = "1220">
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "868">
                </Location>
                <Location
-                  uuid = "12E2EB68-78E4-4016-807B-AE18DC57796A - bce3280eed51419e"
+                  uuid = "DD222B14-7632-42C2-93DA-4D47565777BB - 15f08208478eca73"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
-                  offsetFromSymbolStart = "1188">
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "788">
                </Location>
                <Location
-                  uuid = "12E2EB68-78E4-4016-807B-AE18DC57796A - bce3280eed51419e"
+                  uuid = "DD222B14-7632-42C2-93DA-4D47565777BB - 473d4b7c19c31cbc"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JsonParsingTutorial.WebService.fetchFacts(completionHandler: (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; ()) -&gt; ()"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/Helper/WebService.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
-                  offsetFromSymbolStart = "1172">
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "504">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -229,77 +409,47 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E3B9CA01-B3C3-4963-B733-116CAE63851A"
+            uuid = "B5EC1B8C-9188-4009-862F-29CB63F85FBF"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
+            filePath = "JsonParsingTutorial/FactsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
-            landmarkName = "getList(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "E3B9CA01-B3C3-4963-B733-116CAE63851A - bce3280eed5146f1"
-                  shouldBeEnabled = "Yes"
+                  uuid = "B5EC1B8C-9188-4009-862F-29CB63F85FBF - 161d108ed43941"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; () in closure #2 () -&gt; () in JsonParsingTutorial.FactsView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/FactsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "50"
-                  endingLineNumber = "50"
-                  offsetFromSymbolStart = "1820">
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
                </Location>
                <Location
-                  uuid = "E3B9CA01-B3C3-4963-B733-116CAE63851A - bce3280eed5146f1"
+                  uuid = "B5EC1B8C-9188-4009-862F-29CB63F85FBF - a5516d800a43e1a3"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; () in closure #2 () -&gt; () in JsonParsingTutorial.FactsView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/FactsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "50"
-                  endingLineNumber = "50"
-                  offsetFromSymbolStart = "1760">
-               </Location>
-               <Location
-                  uuid = "E3B9CA01-B3C3-4963-B733-116CAE63851A - bce3280eed5146f1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "50"
-                  endingLineNumber = "50"
-                  offsetFromSymbolStart = "1932">
-               </Location>
-               <Location
-                  uuid = "E3B9CA01-B3C3-4963-B733-116CAE63851A - bce3280eed5146f1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "50"
-                  endingLineNumber = "50"
-                  offsetFromSymbolStart = "1904">
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "132">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -307,221 +457,62 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8779FB4B-35BD-4E67-B5B5-CC6C52A8ED0F"
+            uuid = "5F6ABB52-1D55-480D-975C-4D9274B2266E"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
+            filePath = "JsonParsingTutorial/FactsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
             endingLineNumber = "15"
-            landmarkName = "getUserList(completion:)"
-            landmarkType = "7">
+            landmarkName = "body"
+            landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "8779FB4B-35BD-4E67-B5B5-CC6C52A8ED0F - f6955adbc90ed117"
+                  uuid = "5F6ABB52-1D55-480D-975C-4D9274B2266E - d58093bda5b2a978"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getUserList(completion: (Swift.Array&lt;JsonParsingTutorial.Users&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #2 () -&gt; () in JsonParsingTutorial.FactsView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/FactsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
                   endingLineNumber = "15"
-                  offsetFromSymbolStart = "436">
+                  offsetFromSymbolStart = "32">
                </Location>
                <Location
-                  uuid = "8779FB4B-35BD-4E67-B5B5-CC6C52A8ED0F - f6955adbc90ed117"
+                  uuid = "5F6ABB52-1D55-480D-975C-4D9274B2266E - 161d108ed43962"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getUserList(completion: (Swift.Array&lt;JsonParsingTutorial.Users&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 (Swift.Optional&lt;JsonParsingTutorial.Facts&gt;) -&gt; () in closure #2 () -&gt; () in JsonParsingTutorial.FactsView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/FactsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
                   endingLineNumber = "15"
-                  offsetFromSymbolStart = "396">
+                  offsetFromSymbolStart = "84">
                </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EC2E212B-507B-44C1-A525-A5AE8D678B25"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "getList(completion:)"
-            landmarkType = "7">
-            <Locations>
                <Location
-                  uuid = "EC2E212B-507B-44C1-A525-A5AE8D678B25 - bce3280eed5140a6"
+                  uuid = "5F6ABB52-1D55-480D-975C-4D9274B2266E - a5516d800a43e180"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;JsonParsingTutorial.Facts&gt;&gt;) -&gt; () in closure #2 () -&gt; () in JsonParsingTutorial.FactsView.body.getter : some"
                   moduleName = "JsonParsingTutorial"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/FactsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "372">
-               </Location>
-               <Location
-                  uuid = "EC2E212B-507B-44C1-A525-A5AE8D678B25 - bce3280eed5140a6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "340">
-               </Location>
-               <Location
-                  uuid = "EC2E212B-507B-44C1-A525-A5AE8D678B25 - bce3280eed5140a6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "352">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "148B8066-074D-44C9-87B6-A19D18036739"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "getList(completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "148B8066-074D-44C9-87B6-A19D18036739 - bce3280eed51417d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "46"
-                  endingLineNumber = "46"
-                  offsetFromSymbolStart = "1412">
-               </Location>
-               <Location
-                  uuid = "148B8066-074D-44C9-87B6-A19D18036739 - bce3280eed51417d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "46"
-                  endingLineNumber = "46"
-                  offsetFromSymbolStart = "1360">
-               </Location>
-               <Location
-                  uuid = "148B8066-074D-44C9-87B6-A19D18036739 - bce3280eed51417d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "46"
-                  endingLineNumber = "46"
-                  offsetFromSymbolStart = "1332">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "36095060-0EDE-4730-9E0D-A91E2DF259DD"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "JsonParsingTutorial/View Model/UserViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "getList(completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "36095060-0EDE-4730-9E0D-A91E2DF259DD - bce3280eed51403b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "792">
-               </Location>
-               <Location
-                  uuid = "36095060-0EDE-4730-9E0D-A91E2DF259DD - bce3280eed51403b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JsonParsingTutorial.UserViewModel.getList(completion: (Swift.Array&lt;JsonParsingTutorial.Members&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "JsonParsingTutorial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/JsonParsingTutorial/JsonParsingTutorial/View%20Model/UserViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "972">
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
                </Location>
             </Locations>
          </BreakpointContent>

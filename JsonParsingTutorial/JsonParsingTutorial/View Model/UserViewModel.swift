@@ -9,6 +9,8 @@ import UIKit
 
 class UserViewModel: NSObject {
     var users : UserModel?
+    var glossaryObj : GlossaryDTO?
+
     var homeObj: HomeModel? // @Published notifies the view when it changes (once network call is done)
 
     func getUserList(completion :([Users])-> Void) {
@@ -45,6 +47,29 @@ class UserViewModel: NSObject {
                         self.homeObj = result
                         print(result.homeTown)
                         completion(result.members)
+                    }
+                    catch {
+                        print("error trying parse json", error)
+                    }
+                }
+            }else{
+                print("Invalid Url")
+            }
+    }
+    
+    
+    func getGlossaryItems(completion :(GlossaryDTO?, [String?])-> Void) {
+
+        var url : String = ""
+           url = "gloassary.json"
+            if let url = Bundle.main.url(forResource: url, withExtension: nil){
+                if let data = try? Data(contentsOf: url){
+                    
+                    let jsondecoder = JSONDecoder()
+                    do{
+                        let result = try jsondecoder.decode(GlossaryDTO.self, from: data)
+                        self.glossaryObj = result
+                        completion(self.glossaryObj, self.glossaryObj? .glossary.glossDiv.glossList.glossEntry.glossDef.glossSeealso ?? [])
                     }
                     catch {
                         print("error trying parse json", error)

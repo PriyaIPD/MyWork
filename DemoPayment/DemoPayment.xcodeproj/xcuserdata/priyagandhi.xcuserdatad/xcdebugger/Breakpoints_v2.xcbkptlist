@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52128EE6-FE68-4AB9-9A81-5E71575789F3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9216339C-2651-452C-AC16-C6B91AD8CE67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoPayment/Helper/WebServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "9216339C-2651-452C-AC16-C6B91AD8CE67 - 80ca7fb20a6405a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoPayment.WebServices.createQRCode() -&gt; ()"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/Helper/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "9216339C-2651-452C-AC16-C6B91AD8CE67 - 9531e3916f91aff0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoPayment.WebServices.createQRCode() -&gt; ()"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/Helper/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5696DBB3-069E-445A-AB6A-731DE062CD4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoPayment/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5696DBB3-069E-445A-AB6A-731DE062CD4C - 9f001502880fb767"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "5696DBB3-069E-445A-AB6A-731DE062CD4C - 75c176870ba49772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7FCE006-A314-49F1-ACA2-A861FFA03988"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoPayment/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C7FCE006-A314-49F1-ACA2-A861FFA03988 - 9cc1d87ea9b49d01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "C7FCE006-A314-49F1-ACA2-A861FFA03988 - 9f001502880fb4e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C7FCE006-A314-49F1-ACA2-A861FFA03988 - 9cc1d87ea9b49d01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C7FCE006-A314-49F1-ACA2-A861FFA03988 - aba6d5ae909c7ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2E0B413-4B0D-41FA-8F78-5270BB5959B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoPayment/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F2E0B413-4B0D-41FA-8F78-5270BB5959B2 - 9f001502880fb4c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F2E0B413-4B0D-41FA-8F78-5270BB5959B2 - 2c546f8c62574205"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F2E0B413-4B0D-41FA-8F78-5270BB5959B2 - f27e779a2faabc80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "F2E0B413-4B0D-41FA-8F78-5270BB5959B2 - aba6d5ae909c7ee5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in DemoPayment.ContentView.body.getter : some"
+                  moduleName = "DemoPayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/DemoPayment/DemoPayment/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE49937A-5745-4276-AB63-14F04AA48C9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoPayment/Helper/WebServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

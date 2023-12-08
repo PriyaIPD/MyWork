@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37457E83-2826-4900-84AF-765094BE0E1D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ABBD817-743F-446F-ABF1-DF257A959627"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProblemSolvingTasks/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "checkAnagramsOrNot(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE397241-5442-4097-B57A-FA42FC19D8CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProblemSolvingTasks/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "sumOfAllIntegersFromArrays(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE397241-5442-4097-B57A-FA42FC19D8CF - 2a217bb6cd80dfab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProblemSolvingTasks.ViewController.sumOfAllIntegersFromArrays(Swift.Array&lt;Swift.Int&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "ProblemSolvingTasks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ProblemSolvingTasks/ProblemSolvingTasks/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AE397241-5442-4097-B57A-FA42FC19D8CF - 2a217bb6cd80dfab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProblemSolvingTasks.ViewController.sumOfAllIntegersFromArrays(Swift.Array&lt;Swift.Int&gt;, Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Int"
+                  moduleName = "ProblemSolvingTasks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/ProblemSolvingTasks/ProblemSolvingTasks/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

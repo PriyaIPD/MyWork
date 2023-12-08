@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "987742F2-EDE5-4C5F-B108-DA4270FB8B39"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "501CBE87-EEF7-4893-8649-8E13F4C38F70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tst/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "501CBE87-EEF7-4893-8649-8E13F4C38F70 - ab8fe7af4677413c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tst.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "tst"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/tst/tst/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "501CBE87-EEF7-4893-8649-8E13F4C38F70 - ab8fe7af4677413c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tst.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "tst"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/tst/tst/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

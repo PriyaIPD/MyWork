@@ -9,4 +9,8 @@ import Foundation
 
 let baseURL = "https://cat-fact.herokuapp.com/facts"
 let currPriceURL = "https://api.coindesk.com/v1/bpi/currentprice.json"
+let populationURL = "https://datausa.io/api/data?drilldowns=Nation&measures=Population"
+
+
+
 

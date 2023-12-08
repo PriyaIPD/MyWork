@@ -13,8 +13,16 @@ class WebService: NSObject {
         return instance
     }()
     
-    private override init(){
-        
+    private override init(){}
+    
+    func fetchPopulation( completionHandler : @escaping(PopulationDTO?)-> Void){
+        let url = URL(string: populationURL)!
+        let task = URLSession.shared.dataTask(with: url) { data, res, err in
+             if let data = data, let responseDict = try? JSONDecoder().decode(PopulationDTO.self, from: data){
+                completionHandler(responseDict)
+            }
+        }
+        task.resume()
     }
 
     
@@ -22,8 +30,7 @@ class WebService: NSObject {
     func fetchFacts( completionHandler : @escaping([Facts]?)-> Void){
         let url = URL(string: baseURL)!
         let task = URLSession.shared.dataTask(with: url) { data, res, err in
-            if let err = err{
-            }else if let data = data, let responseDict = try? JSONDecoder().decode([Facts].self, from: data){
+             if let data = data, let responseDict = try? JSONDecoder().decode([Facts].self, from: data){
                 completionHandler(responseDict)
             }
         }
@@ -33,8 +40,7 @@ class WebService: NSObject {
     func fetchCoinInfo( completionHandler : @escaping(CoinDTO?)-> Void){
         let url = URL(string: currPriceURL)!
         let task = URLSession.shared.dataTask(with: url) { data, res, err in
-            if let err = err{
-            }else if let data = data, let responseDict = try? JSONDecoder().decode(CoinDTO.self, from: data){
+             if let data = data, let responseDict = try? JSONDecoder().decode(CoinDTO.self, from: data){
                 completionHandler(responseDict)
             }
         }

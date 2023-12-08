@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D01C2BA7-67DA-4B91-B898-C4E356B547B5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "387E8C84-51A7-42CC-80DE-5CB586900549"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRCodeTracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "387E8C84-51A7-42CC-80DE-5CB586900549 - 8cb48cfb671b19ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "387E8C84-51A7-42CC-80DE-5CB586900549 - 8cb48cfb671b19ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "387E8C84-51A7-42CC-80DE-5CB586900549 - 8cb48cfb671b19d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FF5875F-9034-4DB2-A0FE-7703F0983845"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRCodeTracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FF5875F-9034-4DB2-A0FE-7703F0983845 - 8cb48cfb671b1e3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "4FF5875F-9034-4DB2-A0FE-7703F0983845 - 8cb48cfb671b1e1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "4FF5875F-9034-4DB2-A0FE-7703F0983845 - 8cb48cfb671b1e3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E06D55D8-2B18-4FEA-B020-273771067267"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRCodeTracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E06D55D8-2B18-4FEA-B020-273771067267 - 8cb48cfb671b1ea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "E06D55D8-2B18-4FEA-B020-273771067267 - 8cb48cfb671b1ea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+               <Location
+                  uuid = "E06D55D8-2B18-4FEA-B020-273771067267 - 8cb48cfb671b1ea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "E06D55D8-2B18-4FEA-B020-273771067267 - 8cb48cfb671b1ec2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QRCodeTracker.ViewController.metadataOutput(_: __C.AVCaptureMetadataOutput, didOutput: Swift.Array&lt;__C.AVMetadataObject&gt;, from: __C.AVCaptureConnection) -&gt; ()"
+                  moduleName = "QRCodeTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/QRCodeTracker/QRCodeTracker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "211E6A09-3E70-4917-A35A-5BA42F2CE952"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRCodeTracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F00BB152-BF4E-4955-9D2B-AAE592282C6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QRCodeTracker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "metadataOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -6,3 +6,5 @@
 //
 
 import Foundation
+
+let baseURL = "https://run.mocky.io/v3/4e23865c-b464-4259-83a3-061aaee400ba"

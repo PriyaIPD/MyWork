@@ -7,6 +7,15 @@
 
 import UIKit
 
-class ShoppingList: NSObject {
+struct ShoppingList: Codable, Identifiable {    
+    
+    
+    var barcode : String
+    var description : String
+    var id : String
+    var image_url : String
+    var name : String
+    var retail_price : Int
+
 
 }

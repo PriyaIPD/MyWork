@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F563A0A2-F544-4741-A18B-01D896BDFC64"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6750CC50-64F4-40D8-9A88-1F72C8AAC47E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasyShopper/Helper/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchItems(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6750CC50-64F4-40D8-9A88-1F72C8AAC47E - d37399473f441206"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasyShopper.WebService.fetchItems() -&gt; ()"
+                  moduleName = "EasyShopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/EasyShopper/EasyShopper/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+               <Location
+                  uuid = "6750CC50-64F4-40D8-9A88-1F72C8AAC47E - d37399473f441206"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasyShopper.WebService.fetchItems() -&gt; ()"
+                  moduleName = "EasyShopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/EasyShopper/EasyShopper/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2312">
+               </Location>
+               <Location
+                  uuid = "6750CC50-64F4-40D8-9A88-1F72C8AAC47E - d37399473f441206"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasyShopper.WebService.fetchItems() -&gt; ()"
+                  moduleName = "EasyShopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/EasyShopper/EasyShopper/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FA9129B-B6D5-4C25-84A8-A774751E7C83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasyShopper/Helper/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchItems(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FA9129B-B6D5-4C25-84A8-A774751E7C83 - d37399473f441229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasyShopper.WebService.fetchItems() -&gt; ()"
+                  moduleName = "EasyShopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/EasyShopper/EasyShopper/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "2472">
+               </Location>
+               <Location
+                  uuid = "0FA9129B-B6D5-4C25-84A8-A774751E7C83 - d37399473f441229"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasyShopper.WebService.fetchItems() -&gt; ()"
+                  moduleName = "EasyShopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/EasyShopper/EasyShopper/Helper/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "2704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

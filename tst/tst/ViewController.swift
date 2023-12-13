@@ -51,8 +51,6 @@ class ViewController: UIViewController, AVCaptureMetadataOutputObjectsDelegate {
 
     
     @IBAction func trackInfo(sender : UIButton){
-
-        
     }
     
     func generateQRCode(from dictionary: [String:String]) -> UIImage? {

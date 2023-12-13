@@ -7,69 +7,69 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A6A7193D2B224F850012BF1D /* EasyShopperApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7193C2B224F850012BF1D /* EasyShopperApp.swift */; };
-		A6A7193F2B224F850012BF1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7193E2B224F850012BF1D /* ContentView.swift */; };
-		A6A719412B224F860012BF1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A719402B224F860012BF1D /* Assets.xcassets */; };
-		A6A719442B224F860012BF1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A719432B224F860012BF1D /* Preview Assets.xcassets */; };
-		A6A7194E2B224F860012BF1D /* EasyShopperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7194D2B224F860012BF1D /* EasyShopperTests.swift */; };
-		A6A719582B224F860012BF1D /* EasyShopperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719572B224F860012BF1D /* EasyShopperUITests.swift */; };
-		A6A7195A2B224F860012BF1D /* EasyShopperUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719592B224F860012BF1D /* EasyShopperUITestsLaunchTests.swift */; };
-		A6A7196A2B224FAD0012BF1D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719692B224FAD0012BF1D /* Constants.swift */; };
-		A6A7196C2B224FCA0012BF1D /* WebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7196B2B224FCA0012BF1D /* WebService.swift */; };
-		A6A7196E2B224FDB0012BF1D /* ShoppingList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7196D2B224FDB0012BF1D /* ShoppingList.swift */; };
-		A6A719712B2254A60012BF1D /* DemoData.json in Resources */ = {isa = PBXBuildFile; fileRef = A6A719702B2254A60012BF1D /* DemoData.json */; };
+		A6A7197F2B28E02B0012BF1D /* SwiftUiPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7197E2B28E02B0012BF1D /* SwiftUiPracticeApp.swift */; };
+		A6A719812B28E02B0012BF1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719802B28E02B0012BF1D /* ContentView.swift */; };
+		A6A719832B28E02E0012BF1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A719822B28E02E0012BF1D /* Assets.xcassets */; };
+		A6A719862B28E02E0012BF1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6A719852B28E02E0012BF1D /* Preview Assets.xcassets */; };
+		A6A719902B28E02E0012BF1D /* SwiftUiPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7198F2B28E02E0012BF1D /* SwiftUiPracticeTests.swift */; };
+		A6A7199A2B28E02E0012BF1D /* SwiftUiPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719992B28E02E0012BF1D /* SwiftUiPracticeUITests.swift */; };
+		A6A7199C2B28E02E0012BF1D /* SwiftUiPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A7199B2B28E02E0012BF1D /* SwiftUiPracticeUITestsLaunchTests.swift */; };
+		A6A719A92B28E3B40012BF1D /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719A82B28E3B40012BF1D /* TextView.swift */; };
+		A6A719AB2B28F4910012BF1D /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719AA2B28F4910012BF1D /* DataModel.swift */; };
+		A6A719AD2B28F8B70012BF1D /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719AC2B28F8B70012BF1D /* MessageView.swift */; };
+		A6A719AF2B28F8FB0012BF1D /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6A719AE2B28F8FB0012BF1D /* TitleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A6A7194A2B224F860012BF1D /* PBXContainerItemProxy */ = {
+		A6A7198C2B28E02E0012BF1D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A6A719312B224F850012BF1D /* Project object */;
+			containerPortal = A6A719732B28E02B0012BF1D /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A6A719382B224F850012BF1D;
-			remoteInfo = EasyShopper;
+			remoteGlobalIDString = A6A7197A2B28E02B0012BF1D;
+			remoteInfo = SwiftUiPractice;
 		};
-		A6A719542B224F860012BF1D /* PBXContainerItemProxy */ = {
+		A6A719962B28E02E0012BF1D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A6A719312B224F850012BF1D /* Project object */;
+			containerPortal = A6A719732B28E02B0012BF1D /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A6A719382B224F850012BF1D;
-			remoteInfo = EasyShopper;
+			remoteGlobalIDString = A6A7197A2B28E02B0012BF1D;
+			remoteInfo = SwiftUiPractice;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A6A719392B224F850012BF1D /* EasyShopper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyShopper.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6A7193C2B224F850012BF1D /* EasyShopperApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyShopperApp.swift; sourceTree = "<group>"; };
-		A6A7193E2B224F850012BF1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A6A719402B224F860012BF1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A6A719432B224F860012BF1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		A6A719492B224F860012BF1D /* EasyShopperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EasyShopperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6A7194D2B224F860012BF1D /* EasyShopperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyShopperTests.swift; sourceTree = "<group>"; };
-		A6A719532B224F860012BF1D /* EasyShopperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EasyShopperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6A719572B224F860012BF1D /* EasyShopperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyShopperUITests.swift; sourceTree = "<group>"; };
-		A6A719592B224F860012BF1D /* EasyShopperUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyShopperUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		A6A719692B224FAD0012BF1D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		A6A7196B2B224FCA0012BF1D /* WebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebService.swift; sourceTree = "<group>"; };
-		A6A7196D2B224FDB0012BF1D /* ShoppingList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingList.swift; sourceTree = "<group>"; };
-		A6A719702B2254A60012BF1D /* DemoData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = DemoData.json; sourceTree = "<group>"; };
+		A6A7197B2B28E02B0012BF1D /* SwiftUiPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6A7197E2B28E02B0012BF1D /* SwiftUiPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiPracticeApp.swift; sourceTree = "<group>"; };
+		A6A719802B28E02B0012BF1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A6A719822B28E02E0012BF1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A6A719852B28E02E0012BF1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A6A7198B2B28E02E0012BF1D /* SwiftUiPracticeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUiPracticeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6A7198F2B28E02E0012BF1D /* SwiftUiPracticeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiPracticeTests.swift; sourceTree = "<group>"; };
+		A6A719952B28E02E0012BF1D /* SwiftUiPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUiPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6A719992B28E02E0012BF1D /* SwiftUiPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiPracticeUITests.swift; sourceTree = "<group>"; };
+		A6A7199B2B28E02E0012BF1D /* SwiftUiPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A6A719A82B28E3B40012BF1D /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
+		A6A719AA2B28F4910012BF1D /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		A6A719AC2B28F8B70012BF1D /* MessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageView.swift; sourceTree = "<group>"; };
+		A6A719AE2B28F8FB0012BF1D /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A6A719362B224F850012BF1D /* Frameworks */ = {
+		A6A719782B28E02B0012BF1D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A719462B224F860012BF1D /* Frameworks */ = {
+		A6A719882B28E02E0012BF1D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A719502B224F860012BF1D /* Frameworks */ = {
+		A6A719922B28E02E0012BF1D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -79,154 +79,146 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A6A719302B224F850012BF1D = {
+		A6A719722B28E02B0012BF1D = {
 			isa = PBXGroup;
 			children = (
-				A6A7193B2B224F850012BF1D /* EasyShopper */,
-				A6A7194C2B224F860012BF1D /* EasyShopperTests */,
-				A6A719562B224F860012BF1D /* EasyShopperUITests */,
-				A6A7193A2B224F850012BF1D /* Products */,
+				A6A7197D2B28E02B0012BF1D /* SwiftUiPractice */,
+				A6A7198E2B28E02E0012BF1D /* SwiftUiPracticeTests */,
+				A6A719982B28E02E0012BF1D /* SwiftUiPracticeUITests */,
+				A6A7197C2B28E02B0012BF1D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A6A7193A2B224F850012BF1D /* Products */ = {
+		A6A7197C2B28E02B0012BF1D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A6A719392B224F850012BF1D /* EasyShopper.app */,
-				A6A719492B224F860012BF1D /* EasyShopperTests.xctest */,
-				A6A719532B224F860012BF1D /* EasyShopperUITests.xctest */,
+				A6A7197B2B28E02B0012BF1D /* SwiftUiPractice.app */,
+				A6A7198B2B28E02E0012BF1D /* SwiftUiPracticeTests.xctest */,
+				A6A719952B28E02E0012BF1D /* SwiftUiPracticeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A6A7193B2B224F850012BF1D /* EasyShopper */ = {
+		A6A7197D2B28E02B0012BF1D /* SwiftUiPractice */ = {
 			isa = PBXGroup;
 			children = (
-				A6A719662B224F900012BF1D /* Helper */,
-				A6A7193C2B224F850012BF1D /* EasyShopperApp.swift */,
-				A6A7193E2B224F850012BF1D /* ContentView.swift */,
-				A6A719402B224F860012BF1D /* Assets.xcassets */,
-				A6A719422B224F860012BF1D /* Preview Content */,
+				A6A7197E2B28E02B0012BF1D /* SwiftUiPracticeApp.swift */,
+				A6A719802B28E02B0012BF1D /* ContentView.swift */,
+				A6A719A82B28E3B40012BF1D /* TextView.swift */,
+				A6A719AC2B28F8B70012BF1D /* MessageView.swift */,
+				A6A719AE2B28F8FB0012BF1D /* TitleView.swift */,
+				A6A719822B28E02E0012BF1D /* Assets.xcassets */,
+				A6A719842B28E02E0012BF1D /* Preview Content */,
+				A6A719AA2B28F4910012BF1D /* DataModel.swift */,
 			);
-			path = EasyShopper;
+			path = SwiftUiPractice;
 			sourceTree = "<group>";
 		};
-		A6A719422B224F860012BF1D /* Preview Content */ = {
+		A6A719842B28E02E0012BF1D /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A6A719432B224F860012BF1D /* Preview Assets.xcassets */,
+				A6A719852B28E02E0012BF1D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		A6A7194C2B224F860012BF1D /* EasyShopperTests */ = {
+		A6A7198E2B28E02E0012BF1D /* SwiftUiPracticeTests */ = {
 			isa = PBXGroup;
 			children = (
-				A6A7194D2B224F860012BF1D /* EasyShopperTests.swift */,
+				A6A7198F2B28E02E0012BF1D /* SwiftUiPracticeTests.swift */,
 			);
-			path = EasyShopperTests;
+			path = SwiftUiPracticeTests;
 			sourceTree = "<group>";
 		};
-		A6A719562B224F860012BF1D /* EasyShopperUITests */ = {
+		A6A719982B28E02E0012BF1D /* SwiftUiPracticeUITests */ = {
 			isa = PBXGroup;
 			children = (
-				A6A719572B224F860012BF1D /* EasyShopperUITests.swift */,
-				A6A719592B224F860012BF1D /* EasyShopperUITestsLaunchTests.swift */,
+				A6A719992B28E02E0012BF1D /* SwiftUiPracticeUITests.swift */,
+				A6A7199B2B28E02E0012BF1D /* SwiftUiPracticeUITestsLaunchTests.swift */,
 			);
-			path = EasyShopperUITests;
-			sourceTree = "<group>";
-		};
-		A6A719662B224F900012BF1D /* Helper */ = {
-			isa = PBXGroup;
-			children = (
-				A6A719692B224FAD0012BF1D /* Constants.swift */,
-				A6A719702B2254A60012BF1D /* DemoData.json */,
-				A6A7196B2B224FCA0012BF1D /* WebService.swift */,
-				A6A7196D2B224FDB0012BF1D /* ShoppingList.swift */,
-			);
-			path = Helper;
+			path = SwiftUiPracticeUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A6A719382B224F850012BF1D /* EasyShopper */ = {
+		A6A7197A2B28E02B0012BF1D /* SwiftUiPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A6A7195D2B224F860012BF1D /* Build configuration list for PBXNativeTarget "EasyShopper" */;
+			buildConfigurationList = A6A7199F2B28E02E0012BF1D /* Build configuration list for PBXNativeTarget "SwiftUiPractice" */;
 			buildPhases = (
-				A6A719352B224F850012BF1D /* Sources */,
-				A6A719362B224F850012BF1D /* Frameworks */,
-				A6A719372B224F850012BF1D /* Resources */,
+				A6A719772B28E02B0012BF1D /* Sources */,
+				A6A719782B28E02B0012BF1D /* Frameworks */,
+				A6A719792B28E02B0012BF1D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = EasyShopper;
-			productName = EasyShopper;
-			productReference = A6A719392B224F850012BF1D /* EasyShopper.app */;
+			name = SwiftUiPractice;
+			productName = SwiftUiPractice;
+			productReference = A6A7197B2B28E02B0012BF1D /* SwiftUiPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A6A719482B224F860012BF1D /* EasyShopperTests */ = {
+		A6A7198A2B28E02E0012BF1D /* SwiftUiPracticeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A6A719602B224F860012BF1D /* Build configuration list for PBXNativeTarget "EasyShopperTests" */;
+			buildConfigurationList = A6A719A22B28E02E0012BF1D /* Build configuration list for PBXNativeTarget "SwiftUiPracticeTests" */;
 			buildPhases = (
-				A6A719452B224F860012BF1D /* Sources */,
-				A6A719462B224F860012BF1D /* Frameworks */,
-				A6A719472B224F860012BF1D /* Resources */,
+				A6A719872B28E02E0012BF1D /* Sources */,
+				A6A719882B28E02E0012BF1D /* Frameworks */,
+				A6A719892B28E02E0012BF1D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A6A7194B2B224F860012BF1D /* PBXTargetDependency */,
+				A6A7198D2B28E02E0012BF1D /* PBXTargetDependency */,
 			);
-			name = EasyShopperTests;
-			productName = EasyShopperTests;
-			productReference = A6A719492B224F860012BF1D /* EasyShopperTests.xctest */;
+			name = SwiftUiPracticeTests;
+			productName = SwiftUiPracticeTests;
+			productReference = A6A7198B2B28E02E0012BF1D /* SwiftUiPracticeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A6A719522B224F860012BF1D /* EasyShopperUITests */ = {
+		A6A719942B28E02E0012BF1D /* SwiftUiPracticeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A6A719632B224F860012BF1D /* Build configuration list for PBXNativeTarget "EasyShopperUITests" */;
+			buildConfigurationList = A6A719A52B28E02E0012BF1D /* Build configuration list for PBXNativeTarget "SwiftUiPracticeUITests" */;
 			buildPhases = (
-				A6A7194F2B224F860012BF1D /* Sources */,
-				A6A719502B224F860012BF1D /* Frameworks */,
-				A6A719512B224F860012BF1D /* Resources */,
+				A6A719912B28E02E0012BF1D /* Sources */,
+				A6A719922B28E02E0012BF1D /* Frameworks */,
+				A6A719932B28E02E0012BF1D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A6A719552B224F860012BF1D /* PBXTargetDependency */,
+				A6A719972B28E02E0012BF1D /* PBXTargetDependency */,
 			);
-			name = EasyShopperUITests;
-			productName = EasyShopperUITests;
-			productReference = A6A719532B224F860012BF1D /* EasyShopperUITests.xctest */;
+			name = SwiftUiPracticeUITests;
+			productName = SwiftUiPracticeUITests;
+			productReference = A6A719952B28E02E0012BF1D /* SwiftUiPracticeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A6A719312B224F850012BF1D /* Project object */ = {
+		A6A719732B28E02B0012BF1D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					A6A719382B224F850012BF1D = {
+					A6A7197A2B28E02B0012BF1D = {
 						CreatedOnToolsVersion = 15.0.1;
 					};
-					A6A719482B224F860012BF1D = {
+					A6A7198A2B28E02E0012BF1D = {
 						CreatedOnToolsVersion = 15.0.1;
-						TestTargetID = A6A719382B224F850012BF1D;
+						TestTargetID = A6A7197A2B28E02B0012BF1D;
 					};
-					A6A719522B224F860012BF1D = {
+					A6A719942B28E02E0012BF1D = {
 						CreatedOnToolsVersion = 15.0.1;
-						TestTargetID = A6A719382B224F850012BF1D;
+						TestTargetID = A6A7197A2B28E02B0012BF1D;
 					};
 				};
 			};
-			buildConfigurationList = A6A719342B224F850012BF1D /* Build configuration list for PBXProject "EasyShopper" */;
+			buildConfigurationList = A6A719762B28E02B0012BF1D /* Build configuration list for PBXProject "SwiftUiPractice" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -234,37 +226,36 @@
 				en,
 				Base,
 			);
-			mainGroup = A6A719302B224F850012BF1D;
-			productRefGroup = A6A7193A2B224F850012BF1D /* Products */;
+			mainGroup = A6A719722B28E02B0012BF1D;
+			productRefGroup = A6A7197C2B28E02B0012BF1D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A6A719382B224F850012BF1D /* EasyShopper */,
-				A6A719482B224F860012BF1D /* EasyShopperTests */,
-				A6A719522B224F860012BF1D /* EasyShopperUITests */,
+				A6A7197A2B28E02B0012BF1D /* SwiftUiPractice */,
+				A6A7198A2B28E02E0012BF1D /* SwiftUiPracticeTests */,
+				A6A719942B28E02E0012BF1D /* SwiftUiPracticeUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A6A719372B224F850012BF1D /* Resources */ = {
+		A6A719792B28E02B0012BF1D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A719442B224F860012BF1D /* Preview Assets.xcassets in Resources */,
-				A6A719712B2254A60012BF1D /* DemoData.json in Resources */,
-				A6A719412B224F860012BF1D /* Assets.xcassets in Resources */,
+				A6A719862B28E02E0012BF1D /* Preview Assets.xcassets in Resources */,
+				A6A719832B28E02E0012BF1D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A719472B224F860012BF1D /* Resources */ = {
+		A6A719892B28E02E0012BF1D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A719512B224F860012BF1D /* Resources */ = {
+		A6A719932B28E02E0012BF1D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -274,52 +265,53 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A6A719352B224F850012BF1D /* Sources */ = {
+		A6A719772B28E02B0012BF1D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A7193F2B224F850012BF1D /* ContentView.swift in Sources */,
-				A6A7193D2B224F850012BF1D /* EasyShopperApp.swift in Sources */,
-				A6A7196E2B224FDB0012BF1D /* ShoppingList.swift in Sources */,
-				A6A7196C2B224FCA0012BF1D /* WebService.swift in Sources */,
-				A6A7196A2B224FAD0012BF1D /* Constants.swift in Sources */,
+				A6A719A92B28E3B40012BF1D /* TextView.swift in Sources */,
+				A6A719AB2B28F4910012BF1D /* DataModel.swift in Sources */,
+				A6A719812B28E02B0012BF1D /* ContentView.swift in Sources */,
+				A6A7197F2B28E02B0012BF1D /* SwiftUiPracticeApp.swift in Sources */,
+				A6A719AD2B28F8B70012BF1D /* MessageView.swift in Sources */,
+				A6A719AF2B28F8FB0012BF1D /* TitleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A719452B224F860012BF1D /* Sources */ = {
+		A6A719872B28E02E0012BF1D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A7194E2B224F860012BF1D /* EasyShopperTests.swift in Sources */,
+				A6A719902B28E02E0012BF1D /* SwiftUiPracticeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A6A7194F2B224F860012BF1D /* Sources */ = {
+		A6A719912B28E02E0012BF1D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6A7195A2B224F860012BF1D /* EasyShopperUITestsLaunchTests.swift in Sources */,
-				A6A719582B224F860012BF1D /* EasyShopperUITests.swift in Sources */,
+				A6A7199A2B28E02E0012BF1D /* SwiftUiPracticeUITests.swift in Sources */,
+				A6A7199C2B28E02E0012BF1D /* SwiftUiPracticeUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A6A7194B2B224F860012BF1D /* PBXTargetDependency */ = {
+		A6A7198D2B28E02E0012BF1D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A6A719382B224F850012BF1D /* EasyShopper */;
-			targetProxy = A6A7194A2B224F860012BF1D /* PBXContainerItemProxy */;
+			target = A6A7197A2B28E02B0012BF1D /* SwiftUiPractice */;
+			targetProxy = A6A7198C2B28E02E0012BF1D /* PBXContainerItemProxy */;
 		};
-		A6A719552B224F860012BF1D /* PBXTargetDependency */ = {
+		A6A719972B28E02E0012BF1D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A6A719382B224F850012BF1D /* EasyShopper */;
-			targetProxy = A6A719542B224F860012BF1D /* PBXContainerItemProxy */;
+			target = A6A7197A2B28E02B0012BF1D /* SwiftUiPractice */;
+			targetProxy = A6A719962B28E02E0012BF1D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		A6A7195B2B224F860012BF1D /* Debug */ = {
+		A6A7199D2B28E02E0012BF1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -382,7 +374,7 @@
 			};
 			name = Debug;
 		};
-		A6A7195C2B224F860012BF1D /* Release */ = {
+		A6A7199E2B28E02E0012BF1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -438,14 +430,14 @@
 			};
 			name = Release;
 		};
-		A6A7195E2B224F860012BF1D /* Debug */ = {
+		A6A719A02B28E02E0012BF1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"EasyShopper/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUiPractice/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -458,7 +450,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.EasyShopper;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.SwiftUiPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -466,14 +458,14 @@
 			};
 			name = Debug;
 		};
-		A6A7195F2B224F860012BF1D /* Release */ = {
+		A6A719A12B28E02E0012BF1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"EasyShopper/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUiPractice/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -486,7 +478,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.EasyShopper;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.SwiftUiPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -494,7 +486,7 @@
 			};
 			name = Release;
 		};
-		A6A719612B224F860012BF1D /* Debug */ = {
+		A6A719A32B28E02E0012BF1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -504,16 +496,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.EasyShopperTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.SwiftUiPracticeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EasyShopper.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EasyShopper";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUiPractice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftUiPractice";
 			};
 			name = Debug;
 		};
-		A6A719622B224F860012BF1D /* Release */ = {
+		A6A719A42B28E02E0012BF1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -523,16 +515,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.EasyShopperTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.SwiftUiPracticeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EasyShopper.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EasyShopper";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUiPractice.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftUiPractice";
 			};
 			name = Release;
 		};
-		A6A719642B224F860012BF1D /* Debug */ = {
+		A6A719A62B28E02E0012BF1D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -540,16 +532,16 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.EasyShopperUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.SwiftUiPracticeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = EasyShopper;
+				TEST_TARGET_NAME = SwiftUiPractice;
 			};
 			name = Debug;
 		};
-		A6A719652B224F860012BF1D /* Release */ = {
+		A6A719A72B28E02E0012BF1D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -557,55 +549,55 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.EasyShopperUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wegile.demo.SwiftUiPracticeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = EasyShopper;
+				TEST_TARGET_NAME = SwiftUiPractice;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A6A719342B224F850012BF1D /* Build configuration list for PBXProject "EasyShopper" */ = {
+		A6A719762B28E02B0012BF1D /* Build configuration list for PBXProject "SwiftUiPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A7195B2B224F860012BF1D /* Debug */,
-				A6A7195C2B224F860012BF1D /* Release */,
+				A6A7199D2B28E02E0012BF1D /* Debug */,
+				A6A7199E2B28E02E0012BF1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A6A7195D2B224F860012BF1D /* Build configuration list for PBXNativeTarget "EasyShopper" */ = {
+		A6A7199F2B28E02E0012BF1D /* Build configuration list for PBXNativeTarget "SwiftUiPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A7195E2B224F860012BF1D /* Debug */,
-				A6A7195F2B224F860012BF1D /* Release */,
+				A6A719A02B28E02E0012BF1D /* Debug */,
+				A6A719A12B28E02E0012BF1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A6A719602B224F860012BF1D /* Build configuration list for PBXNativeTarget "EasyShopperTests" */ = {
+		A6A719A22B28E02E0012BF1D /* Build configuration list for PBXNativeTarget "SwiftUiPracticeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A719612B224F860012BF1D /* Debug */,
-				A6A719622B224F860012BF1D /* Release */,
+				A6A719A32B28E02E0012BF1D /* Debug */,
+				A6A719A42B28E02E0012BF1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A6A719632B224F860012BF1D /* Build configuration list for PBXNativeTarget "EasyShopperUITests" */ = {
+		A6A719A52B28E02E0012BF1D /* Build configuration list for PBXNativeTarget "SwiftUiPracticeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A6A719642B224F860012BF1D /* Debug */,
-				A6A719652B224F860012BF1D /* Release */,
+				A6A719A62B28E02E0012BF1D /* Debug */,
+				A6A719A72B28E02E0012BF1D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A6A719312B224F850012BF1D /* Project object */;
+	rootObject = A6A719732B28E02B0012BF1D /* Project object */;
 }

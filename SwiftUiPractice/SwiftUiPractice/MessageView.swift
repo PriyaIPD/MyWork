@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct MessageView: View {
-    var msgInfo : [Messages] = [Messages(title: "Abhinav Harar", color: .green), Messages(title: "Priya Gandhi", color: .yellow)]
+    var msgInfo : [Messages] = [Messages(title: "Abhinav Harar", color: .myGreen), Messages(title: "Priya Gandhi", color: .yellow)]
 
     var body: some View {
         VStack(alignment: .listRowSeparatorLeading, spacing: 22){

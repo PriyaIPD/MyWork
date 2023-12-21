@@ -14,10 +14,57 @@
             filePath = "SwiftUiPractice/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "11"
-            endingLineNumber = "11"
-            landmarkName = "body"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "isScreenTapped"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C63BD5BC-0FF1-462A-B43D-593997F490F1 - 50cf10246ab78705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractice.ContentView.body.getter : some"
+                  moduleName = "SwiftUiPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/SwiftUiPractice/SwiftUiPractice/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "C63BD5BC-0FF1-462A-B43D-593997F490F1 - f76068363dadfe36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "isScreenTapped.getter : Swift.Bool"
+                  moduleName = "SwiftUiPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/SwiftUiPractice/SwiftUiPractice/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C63BD5BC-0FF1-462A-B43D-593997F490F1 - a6de5d3699cd9844"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "isScreenTapped.setter : Swift.Bool"
+                  moduleName = "SwiftUiPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/priyagandhi/Desktop/MyWork/SwiftUiPractice/SwiftUiPractice/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

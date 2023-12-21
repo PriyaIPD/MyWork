@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+/// Add titles for the view
 struct TitleView: View {
     var body: some View {
         VStack (spacing: 12){
@@ -23,7 +24,6 @@ struct TitleView: View {
                 .fontDesign(.rounded)
                 .fontWeight(.semibold)
         }
-       
     }
 }
 

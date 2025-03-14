@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "masaaki-komori-NoXUQ54pDac-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "masaaki-komori-NoXUQ54pDac-unsplash 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "masaaki-komori-NoXUQ54pDac-unsplash 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

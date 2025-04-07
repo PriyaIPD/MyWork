@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A697A3352DA369E400419430 /* FollowersFollowingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A697A3342DA369E400419430 /* FollowersFollowingView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A67745E62DA15BC6007F8ECB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,11 +31,25 @@
 		A67745D52DA15BC4007F8ECB /* SpeerAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeerAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A67745E52DA15BC6007F8ECB /* SpeerAssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpeerAssignmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A67745EF2DA15BC6007F8ECB /* SpeerAssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpeerAssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A697A3342DA369E400419430 /* FollowersFollowingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowersFollowingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A6582E6A2DA1617200E931E3 /* Exceptions for "SpeerAssignment" folder in "SpeerAssignment" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A67745D42DA15BC4007F8ECB /* SpeerAssignment */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A67745D72DA15BC4007F8ECB /* SpeerAssignment */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A6582E6A2DA1617200E931E3 /* Exceptions for "SpeerAssignment" folder in "SpeerAssignment" target */,
+			);
 			path = SpeerAssignment;
 			sourceTree = "<group>";
 		};
@@ -76,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				A67745D72DA15BC4007F8ECB /* SpeerAssignment */,
+				A697A3342DA369E400419430 /* FollowersFollowingView.swift */,
 				A67745E82DA15BC6007F8ECB /* SpeerAssignmentTests */,
 				A67745F22DA15BC6007F8ECB /* SpeerAssignmentUITests */,
 				A67745D62DA15BC4007F8ECB /* Products */,
@@ -236,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A697A3352DA369E400419430 /* FollowersFollowingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,6 +419,7 @@
 				DEVELOPMENT_TEAM = 6T28UQYU75;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SpeerAssignment/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -428,6 +449,7 @@
 				DEVELOPMENT_TEAM = 6T28UQYU75;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SpeerAssignment/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
